@@ -1,0 +1,15 @@
+{
+  "activity_id": 6,
+  "activity_title": "asd",
+  "score": 100,
+  "max_score": 100,
+  "submitted_at": "2026-05-17T23:49:26.317Z",
+  "checkpoints": [
+    {
+      "id": 7,
+      "title": "",
+      "type": "challenge",
+      "passed": true
+    }
+  ]
+}
